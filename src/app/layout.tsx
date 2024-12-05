@@ -17,7 +17,10 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang='kr'>
+    <html
+      lang='kr'
+      suppressHydrationWarning
+    >
       <head>
         <link
           rel='icon'

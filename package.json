@@ -9,24 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.7"
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@sentry/nextjs": "^8.27.0",
     "@svgr/webpack": "^8.1.0",
     "@swc/plugin-styled-components": "^3.0.0",
-    "typescript": "^5",
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "axios": "^1.7.7",
+    "@types/react": "^18.3.13",
+    "@types/react-dom": "^18.3.1",
+    "axios": "^1.7.9",
     "eslint": "^8",
-    "eslint-config-next": "14.2.7",
+    "eslint-config-next": "^15.0.3",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "eslint-plugin-unused-imports": "3.2.0",
     "styled-components": "^6.1.13",
-    "zustand": "^4.5.5"
+    "typescript": "^5.7.2",
+    "zustand": "^5.0.2"
   }
 }
